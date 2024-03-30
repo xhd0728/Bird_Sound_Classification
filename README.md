@@ -1,6 +1,6 @@
 # Introduction
 
-This project is the award-winning work of Chinese Collegiate Computing Competition (4C 2023).
+This project is the award-winning work of Chinese Collegiate Computing Competition (4C 2023). We have built a front-end and back-end system to display bird audio classification results and encyclopedia information.
 
 # Start
 
